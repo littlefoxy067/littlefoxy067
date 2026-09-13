@@ -42,16 +42,15 @@ I experiment with **AI assistants, web apps, APIs, bots, cloud systems, media pr
 
 ---
 
-## 🚀 Foxy Projects
+## 🧩 What I'm Building
 
-| 🦊 Project | 🔥 What it does |
-|---|---|
-| ☁️ **[FoxyCloud](https://github.com/littlefoxy067/FoxyCloud)** | Foxy cloud project and experiments |
-| 🤖 **[Foxy APIs](https://github.com/littlefoxy067/Foxyapis)** | API tools and backend experiments |
-| 🛠️ **[Foxy Tech Studio](https://github.com/littlefoxy067/foxy-tech-studio)** | Foxy technology workspace |
-| 🌐 **[Foxy Links](https://github.com/littlefoxy067/Foxy-links2)** | Links-focused web project |
-| 🧑‍💻 **[Foxy Portfolio](https://github.com/littlefoxy067/foxy-portfolio)** | Personal portfolio project |
-| 🦊 **[Foxy Bot](https://github.com/littlefoxy067/FoxyBot)** | Foxy bot project |
+- 🤖 **AI experiences** — assistants, automation, and interactive tools
+- 🌐 **Web apps** — fast, playful interfaces with real functionality
+- 🔌 **APIs & bots** — useful services that connect everything together
+- ☁️ **Cloud projects** — deploying ideas and making them accessible
+- 🎬 **Creative tech** — media, streaming, and experimental builds
+
+> **No giant project list. Just the work, the experiments, and what's next.** 🦊
 
 ---
 
@@ -97,10 +96,10 @@ Never stop shipping.
 
 **Code • Create • Experiment • Repeat**
 
-⭐ If you find something interesting here, explore the repos.
+⭐ Built with curiosity. Shipped with chaos.
 
 <br />
 
-### `littlefoxy067` · Built with curiosity 🦊
+### `littlefoxy067` · Always building 🦊
 
 </div>
