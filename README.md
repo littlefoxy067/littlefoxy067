@@ -48,8 +48,6 @@ I experiment with **AI assistants, web apps, APIs, bots, cloud systems, media pr
 |---|---|
 | ☁️ **[FoxyCloud](https://github.com/littlefoxy067/FoxyCloud)** | Foxy cloud project and experiments |
 | 🤖 **[Foxy APIs](https://github.com/littlefoxy067/Foxyapis)** | API tools and backend experiments |
-| 🎬 **[Foxflix](https://github.com/littlefoxy067/Foxflix)** | Foxy media / entertainment project |
-| 🎵 **[FoxyStream](https://github.com/littlefoxy067/foxystream)** | Streaming-focused project |
 | 🛠️ **[Foxy Tech Studio](https://github.com/littlefoxy067/foxy-tech-studio)** | Foxy technology workspace |
 | 🌐 **[Foxy Links](https://github.com/littlefoxy067/Foxy-links2)** | Links-focused web project |
 | 🧑‍💻 **[Foxy Portfolio](https://github.com/littlefoxy067/foxy-portfolio)** | Personal portfolio project |
